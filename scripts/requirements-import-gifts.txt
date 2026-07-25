@@ -1,0 +1,5 @@
+# Requirements for import_gifts.py
+telethon>=1.36.0
+pymongo>=4.6.0
+minio>=7.2.0
+python-dotenv>=1.0.0
